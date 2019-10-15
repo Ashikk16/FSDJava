@@ -1,0 +1,105 @@
+2019-10-14 14:08:34,336 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 14:09:07,543 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:customer-app:0.0.1-SNAPSHOT @ C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\pom.xml.
+2019-10-14 14:09:07,915 [Worker-4: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:customer-app:0.0.1-SNAPSHOT @ C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\pom.xml.
+2019-10-14 14:09:08,999 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:09:08,999 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:09:09,002 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:09:09,002 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:09:11,444 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:customer-app:0.0.1-SNAPSHOT @ C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\pom.xml.
+2019-10-14 14:09:11,457 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:09:11,457 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:09:11,459 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:09:11,460 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:09:13,026 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:09:13,027 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:09:13,028 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:09:13,028 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:09:18,459 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:09:18,460 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:09:18,461 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:09:18,461 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:33:55,661 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:33:55,669 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:33:55,679 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:33:55,679 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:35:28,560 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:35:28,561 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:35:28,562 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:35:28,562 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:36:06,266 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:36:06,275 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:36:06,284 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:36:06,284 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:39:54,846 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:39:54,847 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:39:54,848 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:39:54,848 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:46:13,225 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\pom.xml
+2019-10-14 14:46:13,396 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany2:myproject2:0.0.1-SNAPSHOT @ C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\pom.xml.
+2019-10-14 14:46:13,575 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myproject2/src/main/java
+2019-10-14 14:46:13,590 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myproject2/src/test/java
+2019-10-14 14:46:13,721 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-10-14 14:46:14,029 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:46:14,037 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\main\resources
+2019-10-14 14:46:14,039 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:46:14,046 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\test\resources
+2019-10-14 14:46:37,795 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:46:37,796 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:46:37,797 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:46:37,806 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 14:47:39,085 [Worker-29: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany2:myproject2:0.0.1-SNAPSHOT @ C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\pom.xml.
+2019-10-14 14:47:39,275 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:47:39,283 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\main\resources
+2019-10-14 14:47:39,291 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:47:39,291 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\test\resources
+2019-10-14 14:47:40,534 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:47:40,534 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\main\resources
+2019-10-14 14:47:40,548 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:47:40,555 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\test\resources
+2019-10-14 14:51:02,841 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:51:02,842 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\main\resources
+2019-10-14 14:51:02,862 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:51:02,875 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\test\resources
+2019-10-14 14:58:26,959 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:58:26,959 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 14:58:26,969 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 14:58:26,977 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:13:31,554 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:13:31,554 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 15:13:31,564 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:13:31,573 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:29:37,990 [Worker-38: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany2:myproject2:0.0.1-SNAPSHOT @ C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\pom.xml.
+2019-10-14 15:29:38,053 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:29:38,059 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\main\resources
+2019-10-14 15:29:38,066 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:29:38,072 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\myproject2\src\test\resources
+2019-10-14 15:30:04,688 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:30:04,698 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 15:30:04,707 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:30:04,712 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:30:35,940 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:30:35,948 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 15:30:35,955 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:30:35,961 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:39:18,294 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:39:18,304 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 15:39:18,312 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:39:18,319 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:40:13,529 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:40:13,536 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 15:40:13,545 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:40:13,552 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:40:49,727 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:40:49,735 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 15:40:49,742 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:40:49,748 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:41:11,833 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:41:11,839 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 15:41:11,846 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:41:11,856 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:45:56,668 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:45:56,677 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
+2019-10-14 15:45:56,686 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:45:56,693 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\test\resources
+2019-10-14 15:46:42,193 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 15:46:42,201 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava09\Downloads\FSD-3-master\FSD-3-master\customer-app\src\main\resources
